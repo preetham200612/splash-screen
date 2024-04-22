@@ -1,2 +1,2 @@
 # splash-screen
-yashwanth
+preetham
